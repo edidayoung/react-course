@@ -1,1 +1,1 @@
-console.log('React Basics Page');
+console.log('react page');
